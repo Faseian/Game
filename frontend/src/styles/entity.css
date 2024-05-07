@@ -1,0 +1,13 @@
+.square {
+    height: 50px;
+    width: 50px;
+    background-color: red;
+}
+
+#player {
+    position: relative;
+    left: 100px;
+    right: auto;
+    top: 600px;
+    bottom: auto;
+}
